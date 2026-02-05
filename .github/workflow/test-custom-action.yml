@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run custom action
-        uses: kovacstomi121/https://github.com/kovacstomi121/custom-action-challange.git
+        uses: ./
